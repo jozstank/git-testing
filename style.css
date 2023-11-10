@@ -1,3 +1,7 @@
 h1 {
   background-color: green;
 }
+header {
+  background-color: gray;
+  color: #fff;
+}
